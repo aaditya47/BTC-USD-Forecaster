@@ -26,7 +26,7 @@
 
 ## 📷 Screenshot (as tested on Postman)
 
-![](C:\Users\uaadi\Music\Untitled3.png)
+![Screenshot](https://i.imgur.com/Pxx5sAP.png)
 
 
 
